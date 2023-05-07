@@ -1,9 +1,13 @@
 # The_Aeroplane_Game MIG-29
 
 CSE-1211 Lab Project (Fall 2022)
+This Project designed by,
+1. Md Shamsur Rahman Sami.
+2. Sabrina Hossain.
+3. Md Rakib Hossain.
 
 
-# The_Aeroplane_Game MIG-29 Game Youtube Link
+## The_Aeroplane_Game MIG-29 Game Youtube Link
 https://youtu.be/jD59HBw8ePg
 
 
